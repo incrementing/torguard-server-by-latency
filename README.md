@@ -1,6 +1,8 @@
 # torguard-server-by-latency
 [TorGuard](https://torguard.net/)'s Client still doesn't have a way of ordering their servers by latency. So... I did it for them.
 
+![Screenshot](https://i.imgshar.es/e67764.png)
+
 Yes, the code is a f%@king mess but... oh well I wrote it in like 10 seconds.
 
 **Requires** [BeautifulTable](https://pypi.org/project/beautifultable/)
